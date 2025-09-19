@@ -2,7 +2,7 @@
 This repository contains a power bi file for marketing analysis dashboard, images. 
 # 📊 Marketing Analysis Power BI Dashboard
 
-![Dashboard Preview](Dashboard.png)
+Dashboard (1).png
 
 ## 📌 Project Overview  
 This Power BI dashboard provides a **comprehensive marketing performance analysis**, helping businesses evaluate the effectiveness of their marketing campaigns.  
